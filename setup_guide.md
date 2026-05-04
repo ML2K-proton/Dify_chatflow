@@ -1,0 +1,3 @@
+## Để con Bot có thể tự học và tự cập nhật Knowledge Base thông qua các nút logic (HTTP Request, If/Else) -> chọn Chatflow
+1. Lý do
+** Chatflow: Là phiên bản nâng cấp của Chatbot, cho phép ông xây dựng các luồng công việc (workflow) phức tạp cho các cuộc hội thoại nhiều lượt. Chỉ có ở đây ông mới có thể "bố trận" các nút HTTP Request để Bot tự động lưu kiến thức mới vào Dataset mỗi khi ông và nó chat với nhau
